@@ -1,0 +1,12 @@
+{
+    "id": "cloudNine",
+    "name": "Cloud Nine - Health App",
+    "shortName": "cloudNine",
+    "icon": "8ball.png",
+    "version": "1.0",
+    "description": "Cloud Nine records key health metrics.",
+    "supports": [ "BANGLEJS2" ],
+    "storage": [
+      {"name":"cloudNine.app.js","url":"app.js"}
+    ]
+}
